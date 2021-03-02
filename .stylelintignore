@@ -1,0 +1,7 @@
+src/scss/style.scss
+src/blocks/sprite-png/sprite-png.scss
+src/scss/print.scss
+src/scss/mixins.scss
+src/scss/mixins/_smart-grid.scss
+src/scss/normalize.scss
+src/scss/global.scss
