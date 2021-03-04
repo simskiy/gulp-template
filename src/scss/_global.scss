@@ -1,6 +1,3 @@
-h1 {
-  color: red;
-}
 
 * {
   box-sizing: border-box;
@@ -8,11 +5,13 @@ h1 {
 
 body {
   font-family: 'Roboto', sans-serif;
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
   overflow: hidden;
+
   margin: 0;
 }
